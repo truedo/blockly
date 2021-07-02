@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![enter image description here](https://raw.githubusercontent.com/BlocklyDuino/BlocklyDuino2Electron/master/src/app.png) Welcome to BlocklyDuino2
 
 BlocklyDuino is a **web-based program for editing and visual block programming editor for [Arduino](http://www.arduino.cc/)** electronic boards.
@@ -138,3 +139,6 @@ Tools without which nothing would have been possible (*and millions of thanks to
 - [Blocklino](https://github.com/fontainejp/blocklino)
 - [STudio4Education](https://github.com/A-S-T-U-C-E/STudio4Education)
 - [Font Awesome](http://fontawesome.io)
+=======
+# blockly
+>>>>>>> 1a8a3aadad008691ae79d677e2355bed174d4bed
